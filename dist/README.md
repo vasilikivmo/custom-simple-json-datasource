@@ -23,7 +23,6 @@ information.
 
 ### Example backend implementations
 - https://github.com/bergquist/fake-simple-json-datasource
-- https://github.com/smcquay/jsonds
 
 ### Query API
 
